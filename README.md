@@ -2,7 +2,7 @@
 
 ## About
 Materials concerning the work "Explainable AI for Recombinant Spider Silk: Spinning Parameters and Sequence Effects". Supplementary material referenced in the report can be found in "supplementary.pdf".
-The Spidrospin dataset containing the data for the artificial spider silk experiments and fibers is as of this moment, confidential, and can unfortunately not be shared. The PLM vector embeddings, however, are shared. Given the dataset (or a similar, tabular dataset consisting of spidroin processing parameters), all the experiments can be reproduced by utilizing a virtual environment and 
+The Spidrospin dataset containing the data for the artificial spider silk experiments and fibers is as of this moment, confidential, and can unfortunately not be shared. Given the dataset (or a similar, tabular dataset consisting of spidroin processing parameters), all the experiments can be reproduced by utilizing a virtual environment and 
 the requirements file(s).
 
 ## Structure
